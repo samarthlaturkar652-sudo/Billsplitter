@@ -1,0 +1,6 @@
+{
+  "name": "SettleUp - Fast Dinner Bill Splitter",
+  "description": "Fast, penny-perfect bill splitting for dinners, drinks, and group outings. Calculates exact individual shares with zero cent discrepancies and remembers your session.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
